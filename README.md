@@ -1,6 +1,5 @@
 
-##How many New Yorkers drive? 
-
+##How Many People Drive in NYC? 
 
 ###Data source:
 1. Number of all NYS driver licenses on file(2007~2013)
@@ -10,7 +9,7 @@
   * [Google Public Data](https://www.google.com/publicdata)
 
 ### About the dataset
-The dataset used for analysis includs two parts: number of drivers in NYC and population of NYC.
+The dataset used for analysis includes two parts: number of drivers in NYC and population of NYC.
 
 ### R code and result 
   check details: https://cdn.rawgit.com/yimihua2013/NYCdriver/master/nycdriver.html
